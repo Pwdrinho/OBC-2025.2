@@ -1,7 +1,6 @@
 {
   "timestamp": "2025-12-03T20:45:12Z",
-  "ds18b20_voltage_v": 0.000,
-  "temperatures_c": [
+  "ds18b20_temperatures_c": [
     {"id": "28-000000000001", "temp_c": null},
     {"id": "28-000000000002", "temp_c": null}
   ]
