@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-12-03T20:45:12Z",
+  "ina226": {
+    "tensoes_v": [
+        {"id": "29-000000000001", "tensao_v": null},
+        {"id": "29-000000000002", "tensao_v": null}
+    ],
+    "correntes_ma": [
+        {"id": "31-000000000001", "corrente_ma": null},
+        {"id": "31-000000000002", "corrente_ma": null}
+    ]
+  }
+}
