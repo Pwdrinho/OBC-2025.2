@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void){
+    
+    printf("Olá Mundo!! \n");
+    printf("🛰️EcoVision - Gama CubeDesign Trainee 2025.2\n");
+}
